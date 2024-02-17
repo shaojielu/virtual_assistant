@@ -1,0 +1,7 @@
+langchain
+pygame
+speech_recognition
+time
+edge_tts
+whisper
+gradio
